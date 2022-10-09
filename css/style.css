@@ -2,23 +2,23 @@
 
 body {
   background-color: black;
-  background-image: url(".media/stars.jpeg");
+  background-image: url("..media/stars.jpeg");
 }
 
-div.pageTitle {
+h1.pageTitle {
   color: white;
   text-align: center;
   font-size: 40px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
-div.tableHeader {
+h2.tableHeader {
   color: white;
   font-size: 24px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
-div.information {
+h2.information {
   color: white;
   font-size: 20px;
   font-family: Verdana, Helvetica, sans-serif;
