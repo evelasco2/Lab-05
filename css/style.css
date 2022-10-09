@@ -1,7 +1,11 @@
 
 
 body, html {
-  background-color: black;
+  height: 100%;
+  
+}
+
+#backg {
   background-image: url("../media/stars.jpeg");
   height: 100%;
   background-position: center;
