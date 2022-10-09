@@ -1,7 +1,9 @@
 body {
   background-color: black;
   background-image: url("../media/stars.jpeg");
-  height: fit-content;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #pageTitle {
