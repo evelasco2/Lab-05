@@ -1,13 +1,36 @@
 
 
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+h2 {
+  color: white;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
 img {
   width: 200px;
   height: auto;
 }
 
 table, th, td, {
-  border: 1px solid;
+  border-width: 1px solid;
+  border-color: white;
 }
+
 table {
   width: 100%;
+  align-content: center;
 }
