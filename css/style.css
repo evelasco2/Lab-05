@@ -5,20 +5,20 @@ body {
   background-image: url("../media/stars.jpeg");
 }
 
-h1.pageTitle {
+#pageTitle {
   color: white;
   text-align: center;
   font-size: 40px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
-h2.tableHeader {
+#tableHeader {
   color: white;
   font-size: 24px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
-h2.information {
+#information {
   color: white;
   font-size: 20px;
   font-family: Verdana, Helvetica, sans-serif;
