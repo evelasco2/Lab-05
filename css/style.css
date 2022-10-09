@@ -1,6 +1,6 @@
 
 
-body {
+body, html {
   background-color: black;
   background-image: url("../media/stars.jpeg");
   height: 100%;
