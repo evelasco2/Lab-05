@@ -2,6 +2,7 @@
 
 body {
   background-color: black;
+  background-image: url("css/stars.jpeg");
 }
 
 div.pageTitle {
