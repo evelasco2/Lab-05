@@ -25,11 +25,6 @@ img {
   height: auto;
 }
 
-table, th, td, {
-  border-width: 1px solid;
-  border-color: white;
-}
-
 table {
   width: 100%;
   align-content: center;
