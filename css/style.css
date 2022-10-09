@@ -5,7 +5,8 @@ body, html {
   
 }
 
-#backg {
+body {
+  background-color: black;
   background-image: url("../media/stars.jpeg");
   height: 100%;
   background-position: center;
