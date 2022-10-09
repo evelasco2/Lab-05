@@ -4,3 +4,10 @@ img {
   width: 200px;
   height: auto;
 }
+
+table, th, td, {
+  border: 1px solid;
+}
+table {
+  width: 100%;
+}
