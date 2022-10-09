@@ -37,7 +37,7 @@ img {
 table, tr, td {
   width: 100%;
   text-align: center;
-  border-width: 2px;
+  border: 2px;
   border-color: white;
 }
 
