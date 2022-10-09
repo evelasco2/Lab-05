@@ -1,13 +1,13 @@
-body, html {
+html, body {
   height: 100%;
 }
 
-.bg {
+.bg-container {
   background-image: url("../media/stars.png");
   height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #pageTitle {
