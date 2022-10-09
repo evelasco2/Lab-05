@@ -6,26 +6,26 @@ html, body {
   background-position: center;
 }
 
-#pageTitle {
+.pageTitle {
   color: white;
   text-align: center;
   font-size: 40px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
-#tableHeader {
+.tableHeader {
   color: white;
   font-size: 24px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
-#information {
+.information {
   color: white;
   font-size: 20px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
-#picture {
+.picture {
   width: 250px;
   height: auto;
 }
