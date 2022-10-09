@@ -1,6 +1,6 @@
 html, body {
   background-image: url("../media/stars.png");
-  height: 150%;
+  height: fit-content;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
